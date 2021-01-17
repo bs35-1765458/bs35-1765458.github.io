@@ -5,3 +5,13 @@
 #leftFloat {
   float: left;
 }
+
+#roundBorder {
+  border-radius: 25px;
+  background: url(https://i.pinimg.com/originals/b2/fd/f2/b2fdf2d5d31bcce5b24309995de8e2c2.jpg);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px; 
+  width: 200px;
+  height: 150px; 
+}
