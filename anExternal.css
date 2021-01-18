@@ -12,6 +12,8 @@
 
 #screenCenter {
   position: fixed;
+  margin-right: 20px;
+  margin-left: 20px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
